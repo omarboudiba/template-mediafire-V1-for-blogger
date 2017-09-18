@@ -1,0 +1,13 @@
+<div dir="ltr" style="text-align: left;" trbidi="on">
+<div class="download_link" id="d9fc1e356b556415e8337d68d5ce51d5" name="d9fc1e356b556415e8337d68d5ce51d5">
+<br />
+<a href=" >>>>Link here<<< " onclick="DLP_mOnDownload(this); return true;" style="border-right-width: 10px; margin-right: 10px;">Download <span class="dlFileSize">(25.64 MB)</span></a> </div>
+<div class="dl-file-icon">
+</div>
+<div class="dl-utility-nav">
+<ul>
+<li class="plainTxtBtn reversedIcons ico30share"><a href="javascript:void(0)" onmousedown="DoShowShare();return false;"></a><span class="alt point-down tooltip" style="left: 40px; width: 135px;"></span></li>
+<li class="plainTxtBtn reversedIcons ico30link"><a data-href=" >>>>Link here<<< " href="javascript:void(0)" id="copylink_dl"></a><span class="alt point-down tooltip" style="left: 30px; width: 154px;"></span></li>
+<a class="ParallelDL-optIn" href="https://www.blogger.com/blogger.g?blogID=4103013813483062767#">Try new downloaderBeta</a>  </ul>
+</div>
+</div>
